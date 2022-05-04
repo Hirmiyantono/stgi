@@ -1,7 +1,10 @@
 <header class="header">
   <nav class="navbar navbar-expand-lg header-nav fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="/">STGI</a>
+        <a class="navbar-brand" href="/">
+          <img src="img/stgi-icon.png" alt="" width="60" height="60" class="">
+          STGI
+        </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
           <span class="navbar-toggler-icon"></span>
@@ -31,6 +34,9 @@
               <a class="nav-link" href="#content-7">Kontak</a>
             </li>
           </ul>
+          <form class="d-flex justify-content-end ms-auto">
+            <button class="btn btn-warning btn-lg" type="button" onclick="window.location='http://sisfo.stgi.or.id/web/site/login'">Login DPW</button>
+          </form>
         </div>
       </div>
     </nav>

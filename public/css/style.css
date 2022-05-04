@@ -108,9 +108,9 @@ ul{
 	z-index: 3;
 }
 .banner-image{
-    background-image: url('img/pemandangan.jpg');
+    background-image: url('img/gambar-stgi.jpg');
     background-size: cover;
-    background-position: 50% 50%;
+    background-position: 10% 90%;
 }
 .banner-image:after {
     position: absolute;
@@ -184,7 +184,7 @@ ul{
  } */
  a.btn:hover{
     background: black;
-    color: black;
+    color: white;
      transition: .3s;
  -webkit-transition: .3s;
  }

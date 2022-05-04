@@ -3,6 +3,7 @@
     <div id="content-1" class="banner-image w-100 vh-100 d-flex justify-content-center align-items-center">
         <div class="content text-center">
             <h1 style="font-weight: 600; font-size: 3rem;" class="text-white">STGI DPC JAKARTA BARAT</h1>
+            <button class="btn btn-warning btn-lg" type="button" onclick="window.location='http://sisfo.stgi.or.id/web/site/login'">Login DPW</button>
         </div>
     </div>
     <div id="content-2" class="container py-5">
