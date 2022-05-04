@@ -108,7 +108,7 @@ ul{
 	z-index: 3;
 }
 .banner-image{
-    background-image: url('/img/pemandangan.jpg');
+    background-image: url('css/img/pemandangan.jpg');
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -134,7 +134,7 @@ ul{
 	z-index: 3;
 }
 .image-background{
-    background-image: url('/img/organization.jpg');
+    background-image: url('css/img/organization.jpg');
     background-size: cover;
     background-position: 50% 50%;
 }
